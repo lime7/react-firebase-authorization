@@ -38,5 +38,5 @@ export {
   createUserWithEmailAndPassword,
   auth,
   onAuthStateChanged,
-  signInWithEmailAndPassword
+  signInWithEmailAndPassword,
 };
